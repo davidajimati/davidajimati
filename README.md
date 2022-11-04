@@ -1,6 +1,7 @@
 - 👋 Hi, My name is David Ajimati @davidajimati
 - 👀 I’m interested in Software engineering, Blockchain development, the Metaverse and Web3 Apllications
-- 🌱 I’m currently learning Blockchain development using Solidity, javascript, python and C++
+- 🌱 I’m currently studying Software development at Holberton coding school (ALX) and Qwasar silicon valley.
+- Next stop is to learn Blockchain development using Solidity, javascript, python and C++
 - 💞️ I’m looking to collaborate on Blockchain and software development projects
 - 📫 you can reach me via my email: ajimatidavid@agmail.com
 
