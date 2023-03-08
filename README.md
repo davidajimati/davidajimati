@@ -1,10 +1,9 @@
-- 👋 Hi, My name is David Ajimati @davidajimati
-- 👀 I’m interested in Software engineering, Blockchain development, the Metaverse and Web3 Apllications
-- 🌱 I’m currently studying Software development at ALX (Holberton coding school - ONLINE)
-- Next stop is to learn Blockchain development using Solidity, javascript, python, Golang and C++
-- 💞️ I’m looking to collaborate on Blockchain and software development projects
-- 📫 you can reach me via my email: ajimatidavid@agmail.com
-
+Welcome to my GitHub profile! 
+I'm David Ajimati (@davidajimati), a software engineering enthusiast, Worpress Developer and Digital Marketer.
+I am passionate about  Blockchain development, the Metaverse, and Web3 Applications. 
+Currently studying Software Development at ALX (Holberton school)
+I'm actively seeking exciting projects to collaborate on in both Blockchain and software development. 
+Reach out to me at ajimatidavid@gmail.com to chat!
 <!---
 davidajimati/davidajimati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
