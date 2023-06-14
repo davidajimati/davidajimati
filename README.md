@@ -1,6 +1,6 @@
 Welcome to my GitHub profile
 - I'm David Ajimati, a software engineer.
-- Solving the world's biggers problem, One line of code per time.
+- Solving the world's biggest problems, One line of code per time.
 - I'm interested in exciting software engineering projects
 - You can reach me via:<br>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=blue)](https://github.com/davidajimati)
