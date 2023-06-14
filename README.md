@@ -1,3 +1,6 @@
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidajimati&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Welcome to my GitHub profile! 
 - I'm David Ajimati (@davidajimati), a software engineering, Worpress Developer and Digital Marketer.
 - Passionate about solving the world's biggers problem, One line of code per time.
