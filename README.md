@@ -3,9 +3,10 @@ Welcome to my GitHub profile
 - Solving the world's biggest problems, One line of code per time.
 - I'm interested in exciting software engineering projects
 - You can reach me via:<br>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=blue)](https://github.com/davidajimati)
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=blue)](https://github.com/davidajimati)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajimatidavid)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ajimatidavid@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/DavidAjimati)
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidajimati&show_icons=true&theme=transparent&title_color=blue)](https://github.com/anuraghazra/github-readme-stats)
 
