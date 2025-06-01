@@ -11,19 +11,13 @@ Welcome to my GitHub profile! I’m a Backend Software Engineer with a passion f
 - **Impact**: Trained over 1,300 individuals in digital and tech skills, empowering the next generation of developers.
 - **Interests**: Exploring AI agent development, cloud-native architectures, and innovative software engineering projects.
 
-### Featured Projects
-- **Financial Software Solutions**: Building microservices-based applications for banking systems, leveraging Spring Boot, FastAPI, and AWS.
-- **AI Agent Development**: Designing intelligent agents to automate workflows and enhance user experiences.
-- Explore my repositories to see my work in action!
-
 ### Connect With Me
 I’m open to collaborating on exciting projects, discussing tech trends, or sharing insights on backend development and AI. Reach out via:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajimatidavid)  
 [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eng.david.ajimati@gmail.com)
 
-### GitHub Stats
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidajimati&show_icons=true&theme=transparent&title_color=blue)
+
 
 
 <!---
