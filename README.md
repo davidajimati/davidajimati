@@ -1,17 +1,32 @@
-Hey There,
-- I'm David Ajimati, a Backend Software Engineer.
-- Solving the world's biggest problems, One line of code per time.
-- I'm interested in exciting software engineering projects
-- You can reach me via:<br>
-[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=blue)](https://github.com/davidajimati)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajimatidavid)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ajimatidavid@gmail.com)
+# David Ajimati
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidajimati&show_icons=true&theme=transparent&title_color=blue)](https://github.com/anuraghazra/github-readme-stats)
+**Backend Software Engineer | AI Agent Developer**
 
-<h4 style="display:inline">Visitors: </h4> <img style="display:inline" src="https://profile-counter.glitch.me/davidajimati/count.svg" alt="hit counter" align="center">
+Welcome to my GitHub profile! I’m a Backend Software Engineer with a passion for building scalable, high-performance systems and innovative AI solutions. With extensive experience in designing robust backend architectures and developing AI-driven applications, I focus on delivering impactful software that solves complex challenges in the financial and technology sectors.
+
+### About Me
+- **Expertise**: Developing backend systems and APIs using **Java (Spring/Spring Boot)**, **Python (FastAPI)**, and managing **SQL/NoSQL databases**. Skilled in microservices architecture and cloud platforms like **AWS** and **OpenShift Kubernetes**.
+- **Current Role**: Backend Software Engineer at Stanbic IBTC (a member of Standard Bank Group), where I contribute to building secure, scalable financial software solutions.
+- **Background**: Started as a WordPress developer, managing digital marketing stacks, before transitioning to backend engineering and AI development since 2021.
+- **Impact**: Trained over 1,300 individuals in digital and tech skills, empowering the next generation of developers.
+- **Interests**: Exploring AI agent development, cloud-native architectures, and innovative software engineering projects.
+
+### Featured Projects
+- **Financial Software Solutions**: Building microservices-based applications for banking systems, leveraging Spring Boot, FastAPI, and AWS.
+- **AI Agent Development**: Designing intelligent agents to automate workflows and enhance user experiences.
+- Explore my repositories to see my work in action!
+
+### Connect With Me
+I’m open to collaborating on exciting projects, discussing tech trends, or sharing insights on backend development and AI. Reach out via:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajimatidavid)  
+[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eng.david.ajimati@gmail.com)
+
+### GitHub Stats
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidajimati&show_icons=true&theme=transparent&title_color=blue)
+
 
 <!---
-davidajimati/davidajimati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+davidajimati/davidajimati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.Backend
 You can click the Preview link to take a look at your changes.
 --->
