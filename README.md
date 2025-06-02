@@ -7,15 +7,14 @@ Welcome to my GitHub profile! I’m a Backend Software Engineer with a passion f
 ### About Me
 - **Expertise**: Developing backend systems and APIs using **Java (Spring/Spring Boot)**, **Python (FastAPI)**, and managing **SQL/NoSQL databases**. Skilled in microservices architecture and cloud platforms like **AWS** and **OpenShift Kubernetes**.
 - **Current Role**: Backend Software Engineer at Stanbic IBTC (a member of Standard Bank Group), where I contribute to building secure, scalable financial software solutions.
-- **Background**: Started as a WordPress developer, managing digital marketing stacks, before transitioning to backend engineering and AI development since 2021.
+- **Background**: Started as a WordPress developer, managing digital marketing stacks, before transitioning to backend engineering and AI development.
 - **Impact**: Trained over 1,300 individuals in digital and tech skills, empowering the next generation of developers.
 - **Interests**: Exploring AI agent development, cloud-native architectures, and innovative software engineering projects.
 
 ### Connect With Me
 I’m open to collaborating on exciting projects, discussing tech trends, or sharing insights on backend development and AI. Reach out via:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajimatidavid)  
-[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eng.david.ajimati@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajimatidavid)  [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eng.david.ajimati@gmail.com)
 
 
 
