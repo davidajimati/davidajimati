@@ -2,10 +2,14 @@
 
 **Backend Software Engineer | AI Agent Developer**
 
-Welcome to my GitHub profile! I’m a Backend Software Engineer with a passion for building scalable, high-performance systems and innovative AI solutions. With extensive experience in designing robust backend architectures and developing AI-driven applications, I focus on delivering impactful software that solves complex challenges in the financial and technology sectors.
+Welcome to my GitHub profile! I’m a Backend Software Engineer, and I love developing software.
+
+Most of my work is in the private repository of those guys who pay me to do what I love.
+You'll find here some of the side projects I've built while fiddling with code.
+
 
 ### About Me
-- **Expertise**: Developing backend systems and APIs using **Java (Spring/Spring Boot)**, **Python (FastAPI)**, and managing **SQL/NoSQL databases**. Skilled in microservices architecture and cloud platforms like **AWS** and **OpenShift Kubernetes**.
+- **Expertise**: Developing backend systems and APIs using **Java (Spring/Spring Boot)**, **Python (FastAPI)**, and managing **SQL/NoSQL databases** Following the microservices architecture. I also use cloud platforms like **AWS**, **Azure**, and **OpenShift Kubernetes**.
 - **Current Role**: Backend Software Engineer at Stanbic IBTC (a member of Standard Bank Group), where I contribute to building secure, scalable financial software solutions.
 - **Background**: Started as a WordPress developer, managing digital marketing stacks, before transitioning to backend engineering and AI development.
 - **Impact**: Trained over 1,300 individuals in digital and tech skills, empowering the next generation of developers.
