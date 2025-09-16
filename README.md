@@ -1,10 +1,11 @@
 Hello, My name is **David Ajimati**.
-<br>
+<br><br>
 *Role*: Backend software engineer | AI software engineer
-<br>
+<br><br>
 *Programming Languages*: Java | JavaScript, Typescript | Python
+<br><br>
 *Frameworks*: Spring Boot | FastAPI | Express JS
-<br>
+<br><br>
 *Stack*: AWS | Databases (SQL, NoSQL) | MongoDB | Kubernetes | Git | Docker | Azure | Langraph | LangChain | LangSmith
 
 
