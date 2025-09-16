@@ -1,4 +1,4 @@
-## Hello, My name is **David Ajimati**.
+Hello, My name is **David Ajimati**.
 
 **Role**: Backend software engineer | AI software engineer
 
