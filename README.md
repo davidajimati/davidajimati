@@ -10,6 +10,13 @@ Hello, My name is **David Ajimati**.
 
 
  ### Featured Projects
+| Project Name | Description | Technologies used |
+|----------|----------|----------|
+| Row 1    | Data     | Value    |
+| Row 2    | Data     | Value    |
+| Row 3    | Data     | Value    |
+| Row 4    | Data     | Value    |
+ 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajimatidavid)  [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eng.david.ajimati@gmail.com)
 
